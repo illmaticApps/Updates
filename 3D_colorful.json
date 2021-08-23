@@ -1,11 +1,11 @@
 {
-  "latestVersion": "1.5",
-  "latestVersionCode": 15,
+  "latestVersion": "1.6",
+  "latestVersionCode": 16,
   "url": "https://play.google.com/store/apps/details?id=com.illmatic.d3.colorful.free",
   "releaseNotes": [
-    "Fixed Languages",
-    "Added Premium Request Option",
-    "Added Check For Update Option",
-    "Added Option To Bookmark Icons"
+    "Added Premium Requests",
+    "Added Hyperion Launcher",
+    "Added Basic Kustom Support",
+    "Added Option To Search Wallpapers"
   ]
 }
