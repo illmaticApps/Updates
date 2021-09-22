@@ -1,11 +1,9 @@
 {
-  "latestVersion": "1.6",
-  "latestVersionCode": 16,
+  "latestVersion": "1.7",
+  "latestVersionCode": 17,
   "url": "https://play.google.com/store/apps/details?id=com.illmatic.d3.flat.teal.free",
   "releaseNotes": [
     "Added Premium Requests",
-    "Added Hyperion Launcher",
-    "Added Basic Kustom Support",
-    "Added Option To Search Wallpapers"
+    "Added Android 12 Support"
   ]
 }
